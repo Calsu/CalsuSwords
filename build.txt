@@ -1,0 +1,7 @@
+author = Calsu
+version = 0.4.1.7
+displayName = Calsu's Swords
+homepage = https://forums.terraria.org/index.php?threads/calsuswords.95451/
+hideCode = true
+hideResources = true
+includeSource = false
